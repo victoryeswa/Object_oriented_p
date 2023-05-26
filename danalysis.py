@@ -24,3 +24,5 @@ print(fifa.dtypes, 'dtypes')
 
 #using the info function
 print(fifa.info())
+
+#missing values 
